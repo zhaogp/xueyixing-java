@@ -18,7 +18,7 @@ public class BaseConstant implements Serializable {
      * 默认的上传文件路径
      * TODO 默认配置文件路径
      */
-    public final static String UPLOAD_PATH = BaseUtil.isWindows() ? "D:\\upload\\" : "/usr/local/upload/";
+    public final static String UPLOAD_PATH = BaseUtil.isWindows() ? "D:\\upload\\" : "/home/zhaoguoping/xueyixing/upload/";
 
 
     /**
