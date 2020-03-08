@@ -3,8 +3,8 @@
   "remarks":"1为单机版，2为cluster集群，3为sentinel集群",
   "cacheName":"master",
   "host":[
-    "127.0.0.1:6379"
+    "192.168.6.112:6379"
   ],
-  "password":"123456",
+  "password":"AiJianZi",
   "database":0
 }
